@@ -24,5 +24,5 @@ A real-time bicep curl counter using computer vision.
 1. Install dependencies: `pip install opencv-python mediapipe numpy mysql-connector-python`
 2. Start MySQL via XAMPP
 3. Create database `curl_counter` with `sessions` and `sets` tables
-4. Run `AwesomePoseProject.py`
+4. Run `Curl_Counter.py`
 5. Press `S` to save a set, `Q` to quit
